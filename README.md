@@ -11,7 +11,7 @@
 <img width="1398" height="902" alt="Screenshot 2026-03-13 040109" src="https://github.com/user-attachments/assets/4a08b5a5-722e-4c77-9951-c6555019cd35" />
 </div>
 
-CURRENT RELEASE: https://github.com/JazzyGhost/Blueprinter/releases/tag/v1.1.0
+LATEST RELEASE: https://github.com/JazzyGhost/Blueprinter/releases/
 
 </div>
 ---
