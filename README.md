@@ -10,6 +10,10 @@
 </div>
 <img width="1398" height="902" alt="Screenshot 2026-03-13 040109" src="https://github.com/user-attachments/assets/4a08b5a5-722e-4c77-9951-c6555019cd35" />
 </div>
+
+CURRENT RELEASE: https://github.com/JazzyGhost/Blueprinter/releases/tag/v1.1.0
+
+</div>
 ---
 
 Welcome! Blueprinter is an app I made because I was too lazy to learn Blender. This app has several basic functions, and a Tool Server which lets you create and run plugins natively. Blueprinter, of course is free and plugin dependent. The goal is that anyone can download the base app to make basic objects/scenes, or create/download tools and plugins that really enhance the app. Anything can be added- more shapes, menus, functions, colors, and even brushes or sculpting.
@@ -57,7 +61,3 @@ Export & Compatibility
 Native Project Files: Save and load your work as .blue (JSON) files to keep your geometry parameters editable.
 
 Game Engine Exports: One-click export to .GLB (GLTF) and .OBJ for seamless use in Blender, Unity, Unreal Engine, and Godot
-
-Optional Files:
-- PluginTemplate.py - A plugin template (read it and it tells you how to build plugins)
-- Test_Screenshot.py (Recommended) - Simple screenshot and Gallery plugin (adds "Gallery" to settings and "Camera" icon next to the dark-mode toggle switch.
